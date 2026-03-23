@@ -1,6 +1,9 @@
 # ST3215 Servo Tester
 
 A standalone servo configuration, control, and MIDI integration tool for **Waveshare ST3215 series** serial bus servos.  
+
+![Tool with OLED menu on display](images/tool.jpeg)
+
 Built on a **Raspberry Pi Pico (RP2040)** with a rotary encoder knob, OLED display, and USB MIDI — no PC required once flashed.
 
 ![Wiring Diagram](images/wiring_diagram.svg)
